@@ -1,0 +1,24 @@
+#welcome {
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgb(203, 224, 224);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 70px;
+    border-radius: 20px;
+}
+.gridPart {
+    width: 25px;
+    height: 25px;
+    border: solid 1px;
+    margin: 0px;
+    display: inline-block;
+    padding: 0px;
+    margin-bottom: -4px;
+}
+.snakeHead {
+    background-color: blue;
+}
+.fruitBody {
+    background-color: brown;
+}
